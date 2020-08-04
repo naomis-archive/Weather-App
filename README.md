@@ -1,6 +1,10 @@
 # Weather App
 
-This page uses your current location to get the weather through a [FreeCodeCamp provided API](https://fcc-weather-api.glitch.me). You can also search for a location using longitude and latitute coordinates.
+This page uses your current location to get the weather through a [FreeCodeCamp provided API](https://fcc-weather-api.glitch.me). You can also search for a location using longitude and latitude coordinates.
+
+## Live Version
+
+This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/Weather-App)
 
 ## Feedback, Bugs, and Contributions
 
