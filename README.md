@@ -7,7 +7,7 @@ This page uses your current location to get the weather through a [FreeCodeCamp 
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/Weather-App)
+This project is archived and thus is not currently deployed.
 
 ## Feedback and Bugs
 
